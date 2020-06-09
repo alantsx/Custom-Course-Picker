@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "nome_dis": "A SAÚDE PÚBLICA: ABUXO SEXUAL INFANTIL",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 2,
+        "nome_dis": "A SAÚDE PÚBLICA: HUMANIZAÇÃO EM SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 3,
+        "nome_dis": "A SAÚDE PÚBLICA: PROBLEMAS DE COMPORTAMENTO",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 4,
+        "nome_dis": "A SAÚDE PÚBLICA: TRANSTORNOS GLOBAIS DO DESENVOLVIMENTO",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 5,
+        "nome_dis": "DESEMPENHO: LEGISLAÇÃO EM SAÚDE DO TRABALHADOR",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 6,
+        "nome_dis": "DESEMPENHO: VIGILÂNCIA EM SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 7,
+        "nome_dis": "DESEMPENHO: VIGILÂNCIA EM SAÚDE DO TRABALHADOR",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 8,
+        "nome_dis": "GESTÃO DE PESSOAS",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 9,
+        "nome_dis": "GESTÃO DE PÓLÍTICAS PÚBLICAS",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 10,
+        "nome_dis": "GOVERNANÇA INOVADORA: CONTROLE DE CONSTITUCIONALIDADE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 11,
+        "nome_dis": "HUMANIZAÇÃO EM SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 12,
+        "nome_dis": "LEGISTAÇÃO EM SAÚDE DO TRABALHADOR",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 13,
+        "nome_dis": "PERFIL DO PROFISSIONAL MODERNO: BIOÉTICA",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 14,
+        "nome_dis": "PERFIL DO PROFISSIONAL MODERNO: ÉTICA NA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 15,
+        "nome_dis": "PERFIL DO PROFISSIONAL MODERNO: PESQUISA EM SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 16,
+        "nome_dis": "POLÍTICAS DE SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 17,
+        "nome_dis": "PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 18,
+        "nome_dis": "QUALIDADE DA GESTÃO: GESTÃO DA QUALIDADE EM SAÚDE E ACREDITAÇÃO HOSPITALAR",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 19,
+        "nome_dis": "QUALIDADE DA GESTÃO: GESTÃO EM SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 20,
+        "nome_dis": "QUALIDADE FISCAL - GASTOS E FINANÇAS: O PROCESSO LICITATÓRIO NO SISTEMA S",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 21,
+        "nome_dis": "QUALIDADE FISCAL - GASTOS E FINANÇAS: POLÍTICAS DE SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 22,
+        "nome_dis": "SAÚDE, SEGURANÇA DO TRABALHO E MEIO AMBIENTE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 23,
+        "nome_dis": "SUPERCONSIÊNCIA, VISÃO E FUTURO",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 24,
+        "nome_dis": "VIGILÂNCIA EM SAÚDE",
+        "area_dis": "Saúde"
+    },
+    {
+        "id": 25,
+        "nome_dis": "VIGILÂNCIA EM SAÚDE DO TRABALHADOR",
+        "area_dis": "Saúde"
+    }
+]

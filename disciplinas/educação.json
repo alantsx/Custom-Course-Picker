@@ -1,0 +1,657 @@
+[
+    {
+        "id": 1,
+        "nome_dis": "A NEUROPSICOPEDAGOGIA E O PROCESSO DE APRENDIZAGEM",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 2,
+        "nome_dis": "AÇÃO SUPERVISORA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 3,
+        "nome_dis": "ADAPTAÇÃO DA CRIANÇA NA EDUCAÇÃO INFANTIL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 4,
+        "nome_dis": "ATUAÇÃO DA TUTORIA NA EDUCAÇÃO A DISTÂNCIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 5,
+        "nome_dis": "AVALIAÇÃO DA APRENDIZAGEM",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 6,
+        "nome_dis": "AVALIAÇÃO DA EDUCAÇÃO E DA APRENDIZAGEM",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 7,
+        "nome_dis": "AVALIAÇÃO DO APRENDIZADO E DESENVOLVIMENTO DE PROJETOS EM LÍNGUA ESTRANGEIRA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 8,
+        "nome_dis": "AVALIAÇÃO E PRODUÇÃO DE MATERIAL DIDÁTICO EM LÍNGUA ESTRANGEIRA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 9,
+        "nome_dis": "CENÁRIOS E MODALIDADE DE EAD",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 10,
+        "nome_dis": "COMUNICAÇÃO ALTERNATIVA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 11,
+        "nome_dis": "CONCEPÇÃO E FUNCIONAMENTO DO ENSINO DE LÍNGUA ESTRANGEIRA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 12,
+        "nome_dis": "CONSCIÊNCIA FONOLÓGICA E ALFABETIZAÇÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 13,
+        "nome_dis": "CULTURA E SOCIEDADE",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 14,
+        "nome_dis": "CURRÍCULO E PLANEJAMENTO DA EDUCAÇÃO BÁSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 15,
+        "nome_dis": "DEFICIÊNCIA AUDITIVA: ESTRATÉGIAS EDUCACIONAIS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 16,
+        "nome_dis": "DEFICIÊNCIA AUDITIVA: ESTRATÉGIAS EDUCACIONAIS PARA O TRABALHO DE INCLUSÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 17,
+        "nome_dis": "DEFICIÊNCIA INTELECTUAL: ESTRATÉGIAS EDUCACIONAIS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 18,
+        "nome_dis": "DEFICIÊNCIA INTELECTUAL: ESTRATÉGIAS EDUCACIONAIS PARA O TRABALHO DE INCLUSÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 19,
+        "nome_dis": "DEFICIÊNCIA MOTORA E PARALISIA CEREBRAL: ESTRATÉGIAS EDUCACIONAIS PARA O TRABALHO DE INCLUSÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 20,
+        "nome_dis": "DEFICIÊNCIA VISUAL COM ÊNFASE EM BRAILLE",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 21,
+        "nome_dis": "DEFICIÊNCIA VISUAL, AUDITIVA E SURDOCEGUEIRA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 22,
+        "nome_dis": "DEFICIÊNCIA VISUAL: ESTRATÉGIAS EDUCACIONAIS PARA O TRABALHO DE INCLUSÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 23,
+        "nome_dis": "DESENVOLVIMENTO DA CRIANÇA DE 0 A 5 ANOS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 24,
+        "nome_dis": "DESENVOLVIMENTO E APRENDIZAGEM DE ALUNOS SURDOS: COGNITIVO, AFETIVO E SOCIAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 25,
+        "nome_dis": "DIDÁTICA DA FILOSOFIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 26,
+        "nome_dis": "DIDÁTICA DO ENSINO SUPERIOR",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 27,
+        "nome_dis": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM NO ENSINO  DA QUÍMICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 28,
+        "nome_dis": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM NO ENSINO DE ARTES",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 29,
+        "nome_dis": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM NO ENSINO DE BIOLOGIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 30,
+        "nome_dis": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM NO ENSINO DE FILOSOFIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 31,
+        "nome_dis": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM NO ENSINO DE FÍSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 32,
+        "nome_dis": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM NO ENSINO DE MATEMÁTICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 33,
+        "nome_dis": "DIDÁTICA E AVALIAÇÃO DA APRENDIZAGEM NO ENSINO DE SOCIOLOGIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 34,
+        "nome_dis": "DIREITO À INCLUSÃO ESCOLAR",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 35,
+        "nome_dis": "DIVERSIDADE NA APRENDIZAGEM DE PESSOAS COM NECESSIDADES ESPECIAIS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 36,
+        "nome_dis": "DOCÊNCIA NO ENSINO SUPERIOR",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 37,
+        "nome_dis": "EDUCAÇÃO E TRABALHO NA FORMAÇÃO DE EJA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 38,
+        "nome_dis": "EDUCAÇÃO FÍSICA E INCLUSÃO DE ALUNOS COM DEFICIÊNCIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 39,
+        "nome_dis": "EDUCAÇÃO INCLUSIVA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 40,
+        "nome_dis": "EDUCAÇÃO PSICOMOTORA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 41,
+        "nome_dis": "EDUCAÇÃO, CORPO E ARTE",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 42,
+        "nome_dis": "ENSINO DA LÍNGUA PORTUGUESA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 43,
+        "nome_dis": "ENSINO DE ARTES",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 44,
+        "nome_dis": "ESTUDOS LINGUÍSTICOS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 45,
+        "nome_dis": "FILOSOFIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 46,
+        "nome_dis": "FILOSOFIA GERAL E CONTEMPORÂNEA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 47,
+        "nome_dis": "FORMAÇÃO E PROFISSIONALIZAÇÃO DOCENTE",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 48,
+        "nome_dis": "FUNDAMENTOS TEÓRICOS E PRÁTICOS DO ENSINO DE BIOLOGIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 49,
+        "nome_dis": "FUNDAMENTOS DA EDUCAÇÃO ESPECIAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 50,
+        "nome_dis": "FUNDAMENTOS DA PSICOPEDAGOGIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 51,
+        "nome_dis": "FUNDAMENTOS DO ENSINO DA LÍNGUA PORTUGUESA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 52,
+        "nome_dis": "FUNDAMENTOS E HISTÓRIA DA GEOGRAFIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 53,
+        "nome_dis": "FUNDAMENTOS HISTÓRICOS, BIOLÓGICOS E LEGAIS DA SURDEZ",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 54,
+        "nome_dis": "FUNDAMENTOS TEÓRICOS DO PENSAMENTO MATEMÁTICO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 55,
+        "nome_dis": "FUNDAMENTOS TEÓRICOS E METODOLÓGICOS DO ENSINO DA FÍSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 56,
+        "nome_dis": "FUNDAMENTOS TEÓRICOS E PRÁTICOS DO ENSINO DE CIÊNCIAS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 57,
+        "nome_dis": "FUNDAMENTOS TEÓRICOS E PRÁTICOS DO ENSINO DE GEOGRAFIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 58,
+        "nome_dis": "FUNDAMENTOS TEÓRICOS E PRÁTICOS DO ENSINO DE HISTÓRIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 59,
+        "nome_dis": "FUNDAMENTOS TEÓRICOS E PRÁTICOS DO ENSINO DE QUÍMICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 60,
+        "nome_dis": "GEOGRAFIA HUMANA E ECONÔMICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 61,
+        "nome_dis": "GEOGRAFIA URBANA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 62,
+        "nome_dis": "GESTÃO DEMOCRÁTICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 63,
+        "nome_dis": "GESTÃO E ORGANIZAÇÃO DO TRABALHO ESCOLAR",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 64,
+        "nome_dis": "GESTÃO EDUCACIONAL E ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 65,
+        "nome_dis": "GESTÃO EDUCACIONAL: DIREÇÃO, COORDENAÇÃO E SUPERVISÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 66,
+        "nome_dis": "GESTÃO ESCOLAR",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 67,
+        "nome_dis": "HISTÓRIA DA ARTE",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 68,
+        "nome_dis": "HISTÓRIA E EVOLUÇÃO DA ESCRITA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 69,
+        "nome_dis": "HISTÓRIA, POLÍTICA  E LEGISLAÇÃO DA EDUCAÇÃO DE JOVENS E ADULTOS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 70,
+        "nome_dis": "HISTÓRIA, POLÍTICA E SOCIEDADE",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 71,
+        "nome_dis": "INTERVENÇÃO PRECOCE NO DESENVOLVIMENTO INFANTIL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 72,
+        "nome_dis": "INTERVENÇÃO PSICOPEDAGÓGICA NA ESCOLA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 73,
+        "nome_dis": "INTRODUÇÃO À EDUCAÇÃO FÍSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 74,
+        "nome_dis": "INTRODUÇÃO À PSICOPEDAGOGIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 75,
+        "nome_dis": "INTRODUÇÃO AOS ESTUDOS HISTÓRICOS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 76,
+        "nome_dis": "JOGOS, BRINQUEDOS E BRINCADEIRAS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 77,
+        "nome_dis": "LEGISLAÇÃO E POÍTICAS PÚBLICAS PARA A EDUCAÇÃO BÁSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 78,
+        "nome_dis": "LEGISLAÇÃO E POLÍTICAS PÚBLICAS PARA E EDUCAÇÃO ESPECIAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 79,
+        "nome_dis": "LETRAMENTO NO BRASIL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 80,
+        "nome_dis": "LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 81,
+        "nome_dis": "LÍNGUA PORTUGUESA E A PRODUÇÃO TEXTUAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 82,
+        "nome_dis": "LÍNGUA PORTUGUESA: DA ORALIDADE À ESCRITA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 83,
+        "nome_dis": "LINGUAGENS ARTES EDUCAÇÃO: MÚSICA, DANÇA, TEATRO E ARTES VISUAIS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 84,
+        "nome_dis": "LITERATURA LATINA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 85,
+        "nome_dis": "LUDICIDADE E PSICOMOTRICIDADE",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 86,
+        "nome_dis": "MATERIAL DIDÁTICO ANÁLISE E PRODUÇÃO PARA EJA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 87,
+        "nome_dis": "METODOLOGIA DE PESQUISA CIENTÍFICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 88,
+        "nome_dis": "METODOLOGIA DO ENSINO DE GEOGRAFIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 89,
+        "nome_dis": "METODOLOGIA DO ENSINO DE HISTÓRIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 90,
+        "nome_dis": "METODOLOGIA DO ENSINO E DIDÁTICA EM EDUCAÇÃO FÍSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 91,
+        "nome_dis": "METODOLOGIAS APLICADAS À EDUCAÇÃO AMBIENTAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 92,
+        "nome_dis": "MOVIMENTO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 93,
+        "nome_dis": "NEUROCIÊNCIA E APRENDIZAGEM",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 94,
+        "nome_dis": "O ENSINO DA QUÍMICA NO COTIDIANO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 95,
+        "nome_dis": "O ENSINO DE BIOLOGIA NO COTIDIANO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 96,
+        "nome_dis": "O LÚDICO NA EDUCAÇÃO INFANTIL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 97,
+        "nome_dis": "O PAPEL DA SUPERVISÃO E DA ORIENTAÇÃO EDUCACIONAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 98,
+        "nome_dis": "ORIENTAÇÃO EDUCACIONAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 99,
+        "nome_dis": "PAPEL DO GESTOR: PERSPECTIVAS E DESAFIOS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 100,
+        "nome_dis": "PERSPECTIVAS CURRICULARES CONTEMPORÂNEAS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 101,
+        "nome_dis": "PLANEJAMENTO ESCOLAR",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 102,
+        "nome_dis": "PRÁTICA EDUCATIVA DO ENSINO DA FÍSICA I",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 103,
+        "nome_dis": "PRÁTICA EDUCATIVA DO ENSINO DA FÍSICA II",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 104,
+        "nome_dis": "PRÁTICA EDUCATIVA DO PENSAMENTO MATEMÁTICO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 105,
+        "nome_dis": "PRÁTICAS PEDAGÓGICAS E MEDIAÇÃO ESCOLAR",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 106,
+        "nome_dis": "PRÁTICAS PEDAGÓGICAS NO ENSINO DE JOVENS E ADULTOS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 107,
+        "nome_dis": "PRINCÍPIOS E FUNDAMENTOS DA EDUCAÇÃO INFANTIL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 108,
+        "nome_dis": "PROJETOS DE INCLUSÃO SOCIAL: CASOS DE SUCESSO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 109,
+        "nome_dis": "PSICOGÊNESE DAS LINGUAGENS ORAL E ESCRITA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 110,
+        "nome_dis": "PSICOLOGIA DO DESENVOLVIMENTO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 111,
+        "nome_dis": "REGULAMENTAÇÕES E POLÍTICAS EM EDUCAÇÃO A DISTÂNCIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 112,
+        "nome_dis": "REPRESENTAÇÃO DA ESCRITA, PRODUÇÃO E REESCRITA DE TEXTO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 113,
+        "nome_dis": "SOCIOLOGIA DOS DIREITOS FUNDAMENTAIS",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 114,
+        "nome_dis": "SOCIOLOGIA GERAL E CONTEMPORÂNEA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 115,
+        "nome_dis": "SOCIOLOGIA POLÍTICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 116,
+        "nome_dis": "SUPERCONSIÊNCIA, VISÃO E FUTURO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 117,
+        "nome_dis": "TECNOLOGIA ASSISTIVA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 118,
+        "nome_dis": "TECNOLOGIA ASSISTIVA E COMUNICAÇÃO ALTERNATIVA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 119,
+        "nome_dis": "TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO  APLICADA A EDUCAÇÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 120,
+        "nome_dis": "TEORIA DA HISTÓRIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 121,
+        "nome_dis": "TEORIA E PRÁTICA DA LITERATURA INFANTIL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 122,
+        "nome_dis": "TEORIA E PRÁTICA DA NEUROPSICOPEDAOGIA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 123,
+        "nome_dis": "TEORIA E PRÁTICA DO ENSINO DA EDUCAÇÃO  FÍSICA DO 6º AO 9º",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 124,
+        "nome_dis": "TEORIA E PRÁTICA DO ENSINO DA EDUCAÇÃO FÍSICA PARA O ENSINO MÉDIO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 125,
+        "nome_dis": "TEORIA E PRÁTICA DO ENSINO DA MATEMÁTICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 126,
+        "nome_dis": "TEORIA E PRÁTICA DO ENSINO DE FÍSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 127,
+        "nome_dis": "TEORIAS DA APRENDIZAGEM",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 128,
+        "nome_dis": "TEORIAS E PRÁTICAS DA PSICOPEDAGOGIAS INSTITUCIONAL",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 129,
+        "nome_dis": "TÓPICOS ESPECIAIS EM EDUCAÇÃO FÍSICA",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 130,
+        "nome_dis": "TRANSTORNOS DO ESPECTRO DO AUTISMO E TRANSTORNOS DE COMPORTAMENTO: ESTRATÉGIAS EDUCACIONAIS PARA O TRABALHO DE INCLUSÃO",
+        "area_dis": "Educação"
+    },
+    {
+        "id": 131,
+        "nome_dis": "TRANSTORNOS GLOBAIS DO DESENVOLVIMENTO",
+        "area_dis": "Educação"
+    }
+]

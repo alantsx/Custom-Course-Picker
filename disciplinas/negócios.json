@@ -1,0 +1,367 @@
+[
+    {
+        "id": 1,
+        "nome_dis": "A DISCIPLINA DA PROTEÇÃO DE DADOS PESSOAIS E SEUS FUNDAMENTOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 2,
+        "nome_dis": "A LEI GERAL DE PROTEÇÃO DE DADOS: ASPECTOS LEGAIS RELEVANTES",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 3,
+        "nome_dis": "ADMINISTRAÇÃO DE MATERIAL E PATRIMÔNIO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 4,
+        "nome_dis": "AMBIENTE VIRTUAL E PROTEÇÃO DE DADOS: MARCO CIVIL DA INTERNET E A LGPD",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 5,
+        "nome_dis": "ANÁLISE DE INVESTIMENTOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 6,
+        "nome_dis": "ASPECTOS COMPORTAMENTAIS DA GESTÃO DE PESSOAS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 7,
+        "nome_dis": "AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS E O CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE / ASPECTOS PENDENTES DE REGULAÇÃO PELA AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 8,
+        "nome_dis": "AVALIAÇÃO FINANCEIRA EM LOGÍSTICA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 9,
+        "nome_dis": "BACKGROUND CHECK, DUE DILIGENCE E INVESTIGAÇÕES INTERNAS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 10,
+        "nome_dis": "CAPACITAÇÃO EM LGPD: PREMISSAS NECESSÁRIAS DE UM BOM TREINAMENTODOCENTES",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 11,
+        "nome_dis": "CERIMONIAL E PROTOCOLO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 12,
+        "nome_dis": "CLIMA ORGANIZACIONAL",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 13,
+        "nome_dis": "COMITÊ DE ÉTICA E PROCESSOS DE RESPONSABILIZAÇÃO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 14,
+        "nome_dis": "COMO ESTRUTURAR O COMPLIANCE: FASES DE IMPLANTAÇÃO E AS TRÊS LINHAS DE DEFESA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 15,
+        "nome_dis": "COMPLIANCE E GESTÃO DE RISCOS NA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 16,
+        "nome_dis": "COMPLIANCE NAS CONTRATAÇÕES COM O PODER PÚBLICO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 17,
+        "nome_dis": "COMPLIANCE OFFICER – DESAFIOS, ATRIBUIÇÕES E BARREIRAS ENFRENTADAS DO DIA-A-DIA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 18,
+        "nome_dis": "COMPLIANCE, LEI ANTICORRUPÇÃO E NORMAS INTERNACIONAIS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 19,
+        "nome_dis": "COMPORTAMENTO DO CONSUMIDOR",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 20,
+        "nome_dis": "COMPORTAMENTO E RELACIONAMENTO ORGANIZACIONAL E PROCESSO CRIATIVO APLICADO À COMUNICAÇÃO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 21,
+        "nome_dis": "COMPORTAMENTO ORGANIZACIONAL",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 22,
+        "nome_dis": "COMUNICAÇÃO INTEGRADA EM MARKETING",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 23,
+        "nome_dis": "CONHECENDO A LGPD: PROGRAMA DE COMPLIANCE E RISK ASSESSMENT PARA PROTEÇÃO DE DADOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 24,
+        "nome_dis": "CONTABILIDADE",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 25,
+        "nome_dis": "CONTABILIDADE INTERMEDIÁRIA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 26,
+        "nome_dis": "CONTABILIDADE TRIBUTÁRIA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 27,
+        "nome_dis": "DERIVATIVOS FINANCEIROS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 28,
+        "nome_dis": "DPO – DATA PROTECCION OFFICER: ATRIBUIÇÕES E FERRAMENTAS PARA O EXERCÍCIO DA FUNÇÃO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 29,
+        "nome_dis": "ECONOMIA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 30,
+        "nome_dis": "ESTRATÉGIA COMPETITIVA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 31,
+        "nome_dis": "ESTRATÉGIA EMPRESARIAL E DE RECURSOS HUMANOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 32,
+        "nome_dis": "ESTRATÉGIA LOGÍSTICA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 33,
+        "nome_dis": "FINANÇAS CORPORATIVAS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 34,
+        "nome_dis": "FUNDAMENTOS EM FINANÇAS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 35,
+        "nome_dis": "GESTÃO DA INFORMAÇÃO INTEGRADA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 36,
+        "nome_dis": "GESTÃO DA PERFORMANCE",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 37,
+        "nome_dis": "GESTÃO DA QUALIDADE E INOVAÇÃO NA LOGÍSTICA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 38,
+        "nome_dis": "GESTÃO DE LOGÍSTICA E OPERAÇÕES",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 39,
+        "nome_dis": "GESTÃO DE MARKETING",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 40,
+        "nome_dis": "GESTÃO DE PESSOAS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 41,
+        "nome_dis": "GESTÃO DE RELACIONAMENTO COM O CLIENTE",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 42,
+        "nome_dis": "GESTÃO DOS CANAIS DE DISTRIBUIÇÃO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 43,
+        "nome_dis": "GESTÃO E GERENCIAMENTO DE PROJETOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 44,
+        "nome_dis": "GESTÃO ESTRATÉGICA DE ARMAZENAGEM",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 45,
+        "nome_dis": "GESTÃO ESTRATÉGICA DE TRANSPORTES E DISTRIBUIÇÃO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 46,
+        "nome_dis": "IMPLEMENTANDO A GESTÃO DE RISCOS NO SETOR PÚBLICO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 47,
+        "nome_dis": "INOVAÇÃO E COMPLIANCE: A TÔNICA DO SÉCULO XXI",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 48,
+        "nome_dis": "INTELIGÊNCIA COMPETITIVA E PESQUISA DE MERCADO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 49,
+        "nome_dis": "LAVAGEM DE DINHEIRO: INSTRUMENTOS DE PREVENÇÃO E DETECÇÃO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 50,
+        "nome_dis": "LEI ANTICORRUPÇÃO E ACORDOS DE LENIÊNCIA: ANÁLISE DE CASOS CONCRETOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 51,
+        "nome_dis": "LGPD NO PODER PÚBLICO: LEI DE ACESSO A INFORMAÇÃO, LGPD E OUTROS ATOS NORMATIVOS DE PROTEÇÃO DE DADOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 52,
+        "nome_dis": "MARKETING DE SERVIÇOS PÚBLICOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 53,
+        "nome_dis": "MARKETING PESSOAL E ETIQUETA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 54,
+        "nome_dis": "MERCADO DE CAPITAIS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 55,
+        "nome_dis": "MOTIVAÇÃO E LIDERANÇA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 56,
+        "nome_dis": "NEGÓCIOS FINANCEIROS INTERNACIONAIS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 57,
+        "nome_dis": "O PASSO A PASSO DE ESTRUTURAÇÃO DA LGPD: DO DIAGNÓSTICO À IMPLANTAÇÃO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 58,
+        "nome_dis": "O TRATAMENTO ATUAL DO COMPLIANCE NA JURISPRUDÊNCIA BRASILEIRA – ANÁLISE DE CASOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 59,
+        "nome_dis": "ORGANIZAÇÃO DE EVENTOS E FEIRAS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 60,
+        "nome_dis": "PERÍCIA CONTÁBIL",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 61,
+        "nome_dis": "PLANEJAMENTO E DESENVOLVIMENTO DE CARREIRAS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 62,
+        "nome_dis": "PLANEJAMENTO ESTRATÉGICO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 63,
+        "nome_dis": "PLANEJAMENTO TRIBUTÁRIO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 64,
+        "nome_dis": "PRIVACY BY DESIGN E PRIVACY BY DEFAULT ",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 65,
+        "nome_dis": "RECURSOS HUMANOS: FUNDAMENTOS E PROCESSOS",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 66,
+        "nome_dis": "REQUISITOS DE SEGURANÇA E PRIVACIDADE DE DADOS SOB A ÓTICA DA TECNOLOGIA DE INFORMAÇÃO: ASPECTOS TEÓRICOS E PRÁTICOS.",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 67,
+        "nome_dis": "RESPONSABILIDADES E SANÇÕES NA LGPD ",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 68,
+        "nome_dis": "RISK ASSESSMENT DE COMPLIANCE: COMO GERENCIAR RISCOS DE MANEIRA ADEQUADA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 69,
+        "nome_dis": "SUPERCONSIÊNCIA, VISÃO E FUTURO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 70,
+        "nome_dis": "SISTEMA DE CUSTEIO",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 71,
+        "nome_dis": "SISTEMAS DE INFORMAÇÃO EM MARKETING",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 72,
+        "nome_dis": "TONE AT THE TOP A CULTURA DO COMPLIANCE NAS INSTITUIÇÕES – MESA REDONDA",
+        "area_dis": "Negócios"
+    },
+    {
+        "id": 73,
+        "nome_dis": "TÓPICOS ESPECIAIS EM TÉCNICAS DE SECRETARIADO",
+        "area_dis": "Negócios"
+    }
+]

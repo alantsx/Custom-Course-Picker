@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome_dis": "HAMBURGUER BOVINO",
+        "area_dis": "Gastronomia"
+    },
+    {
+        "id": 2,
+        "nome_dis": "HAMBURGUER SUÍNO",
+        "area_dis": "Gastronomia"
+    },
+    {
+        "id": 3,
+        "nome_dis": "HAMBURGUER FIT",
+        "area_dis": "Gastronomia"
+    },
+    {
+        "id": 4,
+        "nome_dis": "HAMBURGUER DE CORDEIRO",
+        "area_dis": "Gastronomia"
+    },
+    {
+        "id": 5,
+        "nome_dis": "BATATA RÚSTICA",
+        "area_dis": "Gastronomia"
+    },
+    {
+        "id": 6,
+        "nome_dis": "MOLHOS",
+        "area_dis": "Gastronomia"
+    },
+    {
+        "id": 7,
+        "nome_dis": "COMIDAS DE BOTECO",
+        "area_dis": "Gastronomia"
+    }
+]

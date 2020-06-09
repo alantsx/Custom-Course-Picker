@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nome_dis": "Administração de Sistema Operacional Livre – Linux",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 2,
+        "nome_dis": "Administração de Sistema Operacional Proprietário – Windows Server",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 3,
+        "nome_dis": "Administração do SGBD PostgreSQL",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 4,
+        "nome_dis": "Ambiente de desenvolvimento para web",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 5,
+        "nome_dis": "Análise de mercado - tendências, comportamentos e movimentos",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 6,
+        "nome_dis": "Análise e Projeto de Software Orientado a Objetos",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 7,
+        "nome_dis": "Cabeamento estruturado",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 8,
+        "nome_dis": "Ciências de Dados e Big Data",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 9,
+        "nome_dis": "Crimes cibernéticos e técnicas forenses",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 10,
+        "nome_dis": "Direito digital",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 11,
+        "nome_dis": "Gestão de Times - Métodos Ágeis",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 12,
+        "nome_dis": "Human centred design",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 13,
+        "nome_dis": "Ilustração e tratamento de imagens 2D - Adobe Photoshop",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 14,
+        "nome_dis": "Inteligência artificial",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 15,
+        "nome_dis": "Internet das coisas",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 16,
+        "nome_dis": "Introdução a banco de dados",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 17,
+        "nome_dis": "Introdução a redes de computadores e protocolos de comunicação",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 18,
+        "nome_dis": "Introdução a segurança da informação",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 19,
+        "nome_dis": "Introdução ao Coding Mobile (Java) ",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 20,
+        "nome_dis": "Introdução ao Coding Web (PHP)",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 21,
+        "nome_dis": "Lógica de programação",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 22,
+        "nome_dis": "Sistemas de informações gerenciais",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 23,
+        "nome_dis": "Tecnologias e linguagens de banco de dados",
+        "area_dis": "TICS"
+    },
+    {
+        "id": 24,
+        "nome_dis": "Web design em WordPress",
+        "area_dis": "TICS"
+    }
+]

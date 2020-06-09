@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "nome_dis": "A DISCIPLINA DA PROTEÇÃO DE DADOS PESSOAIS E SEUS FUNDAMENTOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 2,
+        "nome_dis": "A LEI GERAL DE PROTEÇÃO DE DADOS: ASPECTOS LEGAIS RELEVANTES",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 3,
+        "nome_dis": "AMBIENTE VIRTUAL E PROTEÇÃO DE DADOS: MARCO CIVIL DA INTERNET E A LGPD",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 4,
+        "nome_dis": "AS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 5,
+        "nome_dis": "ATITUDE, ÉTICA E CONDUTA DO AGENTE PENITENCIÁRIO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 6,
+        "nome_dis": "AUDITORIA CONTÁBIL NO SETOR PÚBLICO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 7,
+        "nome_dis": "AUDITORIA EM OBRAS GOVERNAMENTAIS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 8,
+        "nome_dis": "AUDITORIA GOVERNAMENTAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 9,
+        "nome_dis": "AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS E O CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE / ASPECTOS PENDENTES DE REGULAÇÃO PELA AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 10,
+        "nome_dis": "BACKGROUND CHECK, DUE DILIGENCE E INVESTIGAÇÕES INTERNAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 11,
+        "nome_dis": "CAPACITAÇÃO EM LGPD: PREMISSAS NECESSÁRIAS DE UM BOM TREINAMENTO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 12,
+        "nome_dis": "CARGOS, SALÁRIOS E REMUNERAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 13,
+        "nome_dis": "COMITÊ DE ÉTICA E PROCESSOS DE RESPONSABILIZAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 14,
+        "nome_dis": "COMO ESTRUTURAR O COMPLIANCE: FASES DE IMPLANTAÇÃO E AS TRÊS LINHAS DE DEFESA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 15,
+        "nome_dis": "COMPLIANCE E GESTÃO DE RISCOS NA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 16,
+        "nome_dis": "COMPLIANCE NAS CONTRATAÇÕES COM O PODER PÚBLICO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 17,
+        "nome_dis": "COMPLIANCE OFFICER – DESAFIOS, ATRIBUIÇÕES E BARREIRAS ENFRENTADAS DO DIA-A-DIA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 18,
+        "nome_dis": "COMPLIANCE, LEI ANTICORRUPÇÃO E NORMAS INTERNACIONAIS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 19,
+        "nome_dis": "COMPRAS GOVERNAMENTAIS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 20,
+        "nome_dis": "COMUNICAÇÃO E LIDERANÇA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 21,
+        "nome_dis": "CONCESSÕES DE SERVIÇOS PÚBLICOS E PARCERIAS PÚBLICO PRIVADAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 22,
+        "nome_dis": "CONCURSOS PÚBLICOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 23,
+        "nome_dis": "CONDUTAS VEDADAS AOS AGENTES PÚBLICOS EM PERÍODO ELEITORAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 24,
+        "nome_dis": "CONHECENDO A LGPD: PROGRAMA DE COMPLIANCE E RISK ASSESSMENT PARA PROTEÇÃO DE DADOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 25,
+        "nome_dis": "CONTABILIDADE GOVERNAMENTAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 26,
+        "nome_dis": "CONTRATAÇÕES DIRETAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 27,
+        "nome_dis": "DIREITO ADMINISTRATIVO NA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 28,
+        "nome_dis": "DIREITO CONSTITUCIONAL APLICADO À ADMINISTRAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 29,
+        "nome_dis": "DIREITO CONSTITUCIONAL APLICADO À ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 30,
+        "nome_dis": "DIREITO PENAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 31,
+        "nome_dis": "DIREITOS HUMANOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 32,
+        "nome_dis": "DPO – DATA PROTECCION OFFICER: ATRIBUIÇÕES E FERRAMENTAS PARA O EXERCÍCIO DA FUNÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 33,
+        "nome_dis": "ÉTICA E MORALIDADE NA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 34,
+        "nome_dis": "EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 35,
+        "nome_dis": "FINANÇAS PÚBLICAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 36,
+        "nome_dis": "GERENCIAMENTO DE CRISES",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 37,
+        "nome_dis": "GESTÃO AMBIENTAL E GESTÃO DE RECURSOS NATURAIS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 38,
+        "nome_dis": "GESTÃO DE CUSTOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 39,
+        "nome_dis": "GESTÃO DE PESSOAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 40,
+        "nome_dis": "GESTÃO E EQUILÍBRIO FISCAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 41,
+        "nome_dis": "GESTÃO E FISCALIZAÇÃO DO CONTRATO ADMINISTRATIVO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 42,
+        "nome_dis": "GESTÃO E GERENCIAMENTO DE PROJETOS NA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 43,
+        "nome_dis": "GESTÃO PATRIMONIAL DOS BENS PÚBLICOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 44,
+        "nome_dis": "GOVERNANÇA PÚBLICA E DIREITO ADMINISTRATIVO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 45,
+        "nome_dis": "GOVERNANÇA TRIBUTÁRIA E RECURSOS HUMANOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 46,
+        "nome_dis": "IDENTIDADE E PAPEL SOCIAL DO AGENTE PENITENCIÁRIO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 47,
+        "nome_dis": "IMPLEMENTANDO A GESTÃO DE RISCOS NO SETOR PÚBLICO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 48,
+        "nome_dis": "INOVAÇÃO E COMPLIANCE: A TÔNICA DO SÉCULO XXI",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 49,
+        "nome_dis": "INSTRUMENTOS DE CONTROLE DA ADMINISTRAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 50,
+        "nome_dis": "LAVAGEM DE DINHEIRO: INSTRUMENTOS DE PREVENÇÃO E DETECÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 51,
+        "nome_dis": "LEGISLAÇÃO TRABALHISTA, PREVIDENCIÁRIA E CONTRATOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 52,
+        "nome_dis": "LEI ANTICORRUPÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 53,
+        "nome_dis": "LEI ANTICORRUPÇÃO E ACORDOS DE LENIÊNCIA: ANÁLISE DE CASOS CONCRETOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 54,
+        "nome_dis": "LEI DE RESPONSABILIDADE FISCAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 55,
+        "nome_dis": "LGPD NO PODER PÚBLICO: LEI DE ACESSO A INFORMAÇÃO, LGPD E OUTROS ATOS NORMATIVOS DE PROTEÇÃO DE DADOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 56,
+        "nome_dis": "LICITAÇÕES INTERNACIONAIS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 57,
+        "nome_dis": "LICITAÇÕES SUSTENTÁVEIS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 58,
+        "nome_dis": "O NOVO CÓDIGO DE PROCESSO CIVIL – CPC",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 59,
+        "nome_dis": "O PASSO A PASSO DE ESTRUTURAÇÃO DA LGPD: DO DIAGNÓSTICO À IMPLANTAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 60,
+        "nome_dis": "O SISTEMA PRISIONAL BRASILEIRO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 61,
+        "nome_dis": "O TRATAMENTO ATUAL DO COMPLIANCE NA JURISPRUDÊNCIA BRASILEIRA – ANÁLISE DE CASOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 62,
+        "nome_dis": "ORGANIZAÇÃO ADMINISTRATIVA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 63,
+        "nome_dis": "ORGANIZAÇÃO JUDICIÁRIA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 64,
+        "nome_dis": "PREGÃO PRESENCIAL E ELETRÔNICO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 65,
+        "nome_dis": "PRESTAÇÃO DE CONTAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 66,
+        "nome_dis": "PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 67,
+        "nome_dis": "PRIVACY BY DESIGN E PRIVACY BY DEFAULT",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 68,
+        "nome_dis": "PROCESSO CIVIL – CONCEITOS E FUNDAMENTOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 70,
+        "nome_dis": "PROCESSO ELETRÔNICO E SUA APLICAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 71,
+        "nome_dis": "PSICOLOGIA SOCIAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 72,
+        "nome_dis": "RECURSOS ADMINISTRATIVOS E MEIOS DE IMPUGNAÇÃO DA LICITAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 73,
+        "nome_dis": "REGIME PREVIDENCIÁRIO DOS SERVIDORES",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 74,
+        "nome_dis": "REQUISITOS DE SEGURANÇA E PRIVACIDADE DE DADOS SOB A ÓTICA DA TECNOLOGIA DE INFORMAÇÃO: ASPECTOS TEÓRICOS E PRÁTICOS.",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 75,
+        "nome_dis": "RESPONSABILIDADES E SANÇÕES NA LGPD",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 76,
+        "nome_dis": "RISK ASSESSMENT DE COMPLIANCE: COMO GERENCIAR RISCOS DE MANEIRA ADEQUADA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 77,
+        "nome_dis": "SANÇÕES NAS LICITAÇÕES PÚBLICAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 78,
+        "nome_dis": "SEGURANÇA DE AUTORIDADES",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 79,
+        "nome_dis": "SISTEMA DE CONTROLE INTERNO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 80,
+        "nome_dis": "SISTEMA DE REGISTRO DE PREÇOS E REGIME DIFERENCIADO DE CONTRATAÇÕES",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 81,
+        "nome_dis": "SISTEMA DE SEGURANÇA PÚBLICA NO BRASIL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 82,
+        "nome_dis": "SISTEMA PRISIONAL: A RESSOCIALIZAÇÃO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 83,
+        "nome_dis": "SISTEMA PRISIONAL: ATENDIMENTO ÀS FAMÍLIAS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 84,
+        "nome_dis": "SISTEMA PRISIONAL: ATENDIMENTO HUMANIZADO ÀS PESSOAS PRIVADAS DE LIBERDADE",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 85,
+        "nome_dis": "SISTEMA PRISIONAL: ATITUDE, ÉTICA E CONDUTA DO AGENTE PENITÉNCIÁRIO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 86,
+        "nome_dis": "SISTEMA PRISIONAL: GERENCIAMENTO DE CRISES",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 87,
+        "nome_dis": "SISTEMA PRISIONAL: IDENTIDADE E PAPEL DO AGENTE PENITENCIÁRIO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 88,
+        "nome_dis": "SISTEMA PRISIONAL: PSICOLOGIA SOCIAL",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 89,
+        "nome_dis": "SOCIOLOGIA DO CRIME E DA VIOLÊNCIA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 90,
+        "nome_dis": "SUPERCONSIÊNCIA, VISÃO E FUTURO",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 91,
+        "nome_dis": "TÉCNICAS DE SEGURANÇA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 92,
+        "nome_dis": "TEORIA GERAL DAS LICITAÇÕES",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 93,
+        "nome_dis": "TEORIA GERAL DOS CONTRATOS ADMINISTRATIVOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 94,
+        "nome_dis": "TERCEIRO SETOR",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 95,
+        "nome_dis": "TONE AT THE TOP A CULTURA DO COMPLIANCE NAS INSTITUIÇÕES – MESA REDONDA",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 96,
+        "nome_dis": "TÓPICOS AVANÇADOS EM RECURSOS HUMANOS",
+        "area_dis": "Gestão"
+    },
+    {
+        "id": 97,
+        "nome_dis": "TRIBUTAÇÃO E ADMINISTRAÇÃO PÚBLICA",
+        "area_dis": "Gestão"
+    }
+]

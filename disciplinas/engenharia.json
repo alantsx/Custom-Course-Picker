@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "nome_dis": "Administração de Materiais",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 2,
+        "nome_dis": "Análise da viabilidade econômica e financeira de projetos",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 3,
+        "nome_dis": "Análise e Modelagem de Processos",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 4,
+        "nome_dis": "Análise e Projeto orientados a Objetos",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 5,
+        "nome_dis": "Big Data e Ciência dos Dados",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 6,
+        "nome_dis": "Cabeamento Estruturado",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 7,
+        "nome_dis": "Combate e prevenção de incêndios e pânicos",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 8,
+        "nome_dis": "Direito Ambiental",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 9,
+        "nome_dis": "Energias Renováveis",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 10,
+        "nome_dis": "Ergonomia e Medicina do trabalho",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 11,
+        "nome_dis": "Ferramentas da Qualidade",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 12,
+        "nome_dis": "Gerenciamento dos aspectos e impactos ambientais",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 13,
+        "nome_dis": "Gestão ágil de Projetos",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 14,
+        "nome_dis": "Gestão Ambiental",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 15,
+        "nome_dis": "Gestão da Produção",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 16,
+        "nome_dis": "Gestão da Qualidade",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 17,
+        "nome_dis": "Gestão da tecnologia da informação e comunicação",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 18,
+        "nome_dis": "Gestão de Compras e negociação",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 19,
+        "nome_dis": "Gestão de Custos e Finanças",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 20,
+        "nome_dis": "Gestão de Custos, Riscos e Perdas – GCRP",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 21,
+        "nome_dis": "Gestão de Estoque",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 22,
+        "nome_dis": "Gestão de Materiais e Patrimônio",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 23,
+        "nome_dis": "Gestão de suprimentos, logística e Transporte",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 24,
+        "nome_dis": "Higiene ocupacional e prevenção de riscos ambientais",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 25,
+        "nome_dis": "Inteligência Artificial",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 26,
+        "nome_dis": "Internet das Coisas",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 27,
+        "nome_dis": "Introdução à EaD",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 28,
+        "nome_dis": "Introdução a Redes de Computadores e Protocolos de Comunicação",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 29,
+        "nome_dis": "Introdução a Segurança da Informação",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 30,
+        "nome_dis": "Liderança e gestão de equipes",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 31,
+        "nome_dis": "Logística de Armazenagem",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 32,
+        "nome_dis": "Logística de Transporte",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 33,
+        "nome_dis": "Logística Empresarial",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 34,
+        "nome_dis": "Logística Internacional",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 35,
+        "nome_dis": "Logística Reversa",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 36,
+        "nome_dis": "Matemática Financeira",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 37,
+        "nome_dis": "Meio ambiente, Desenvolvimento e Sustentabilidade",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 38,
+        "nome_dis": "Mercado financeiro e de capitais",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 39,
+        "nome_dis": "Metodologia da Manutenção",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 40,
+        "nome_dis": "Metrologia e Normatização",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 41,
+        "nome_dis": "Planejamento e controladoria financeira",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 42,
+        "nome_dis": "Proteção de Máquinas e Equipamentos",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 43,
+        "nome_dis": "Segurança do Trabalho e Saúde Ocupacional",
+        "area_dis": "Engenharia"
+    },
+    {
+        "id": 44,
+        "nome_dis": "Tratamento da água e fluentes",
+        "area_dis": "Engenharia"
+    }
+]
