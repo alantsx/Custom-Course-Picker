@@ -1,0 +1,176 @@
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+  }
+
+
+/* Fieldset e Legends customizados */
+.fieldset_borda {
+  border: 3px solid #568152;
+  padding: 0 1.0em 0.2em 1.0em;
+  margin: 0 0.3em 3.5em 0.3em;
+  -webkit-box-shadow:  0px 0px 0px 0px #000;
+  box-shadow:  0px 0px 0px 0px #000;
+}
+
+.fieldset_form {
+  border: 3px solid #568152;
+  padding: 0 1.0em 0.2em 1.0em;
+  margin: 3.5em 0.3em 3.5em 0.3em;
+  -webkit-box-shadow:  0px 0px 0px 0px #000;
+  box-shadow:  0px 0px 0px 0px #000;
+}
+
+.fieldset_listas {
+  border: 3px solid #568152;
+  padding: 0 1.0em 1.2em 1.0em;
+  margin: 0 0.3em 3.5em 0.3em;
+  -webkit-box-shadow:  0px 0px 0px 0px #000;
+  box-shadow:  0px 0px 0px 0px #000;
+}
+
+.row_margin {
+  margin: 50em 0 0 0;
+}
+
+.div_botao {
+  margin: 0 0 7em 0;
+}
+
+.legend_custom {
+  width:inherit; /* Or auto */
+    padding:0 10px;
+    border-bottom:none;
+    font-family: 'Oswald', medium, sans-serif;
+    color: #2b3a60;
+  
+}
+
+/* Bordas dos botões */
+.fieldset_botao {
+  border: 1px dashed #2b3a60;
+  padding: 0 0.3em 0.2em 0.3em;
+  margin: 0 0.3em 0.5em 0.3em;
+  -webkit-box-shadow:  0px 0px 0px 0px #000;
+  box-shadow:  0px 0px 0px 0px #000;
+}
+
+.legend_botao {
+  width:inherit; /* Or auto */
+    padding:0 10px;
+    border-bottom:none;
+    font-family: 'Oswald', medium, sans-serif;
+    color: #2b3a60;
+  
+}
+
+.label_forms {
+  font-family: 'Oswald', medium, sans-serif;
+  color: #2b3a60;
+  margin: 10px 0 0 0;
+}
+
+/* Coluna Centralizada */
+
+.col-centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Line-break de menu de opções */
+.optEdu, .optSaude, .optNegocios, .optDireito, .optGestao, .optGastro, .optAutismo {
+  width: 800px;
+  max-width: 100%;
+  overflow: hidden;
+  white-space: normal;
+}
+
+/* Label forms */
+.labelForm {
+  margin: 10px 0px 0px;
+}
+
+  /* Botão toggle on/off */
+
+      /* The switch - the box around the slider */
+    .switch {
+      position: relative;
+      display: inline-block;
+      width: 60px;
+      height: 34px;
+    }
+
+    /* Hide default HTML checkbox */
+    .switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    /* The slider */
+    .slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #ccc;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+
+    .slider:before {
+      position: absolute;
+      content: "";
+      height: 26px;
+      width: 26px;
+      left: 4px;
+      bottom: 4px;
+      background-color: white;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+
+    input:checked + .slider {
+      background-color: #2b3a60;
+    }
+
+    input:focus + .slider {
+      box-shadow: 0 0 1px #2b3a60;
+    }
+
+    input:checked + .slider:before {
+      -webkit-transform: translateX(26px);
+      -ms-transform: translateX(26px);
+      transform: translateX(26px);
+    }
+
+    /* Rounded sliders */
+    .slider.round {
+      border-radius: 34px;
+    }
+
+    .slider.round:before {
+      border-radius: 50%;
+    }
+
+    
+.no-padding {
+  overflow: hidden;
+}
+
+.banner {
+  max-width: 100%;
+  margin: 0em 0.0em 3.5em 0em;
+}
+
+.zoom-adjustment {
+  position: relative;
+}
